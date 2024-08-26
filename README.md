@@ -1,3 +1,4 @@
 # Hello-Word
  The first repository of the Git and Github course.
- thanks Gustavo Guanabara
+ Lesson from "Curso em Vídeo".
+ thanks Gustavo Guanabara!
